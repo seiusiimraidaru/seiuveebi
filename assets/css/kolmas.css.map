@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "kolmas.css",
+	"sources": [
+		"../../scss/kolmas.scss"
+	],
+	"sourcesContent": [
+		".btn-secondary {\n        background: #0051ff;\n        letter-spacing: 1px;\n        ;\n        \n        transition: all 0.4s ease 0s;\n    }\n\nh1 { color: #ffffffdb; font-family: 'Shrikhand', cursive, sans-serif; font-size: 100px; letter-spacing: -1px; line-height: 1; }\n\nh2{ color: #000000db; font-family: 'Shrikhand', cursive; font-size: 30px;}\n\nh2 .featurette-heading { color: #000000db; font-family: 'Shrikhand', cursive; font-size: 60px;}\n\n.hehe{color: #000000db; font-family: 'Montserrat', sans-serif;}\n\n.lead{color: #000000db; font-family: 'Montserrat', sans-serif;}\n\n.navbar{\n    color: #ff9e55\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,cAAc,AAAC,CACP,UAAU,CAAE,OAAO,CACnB,cAAc,CAAE,GAAG,CAGnB,UAAU,CAAE,gBAAgB,CAC/B,AAEL,AAAA,EAAE,AAAC,CAAE,KAAK,CAAE,SAAS,CAAE,WAAW,CAAE,gCAAgC,CAAE,SAAS,CAAE,KAAK,CAAE,cAAc,CAAE,IAAI,CAAE,WAAW,CAAE,CAAC,CAAI,AAEhI,AAAA,EAAE,AAAA,CAAE,KAAK,CAAE,SAAS,CAAE,WAAW,CAAE,oBAAoB,CAAE,SAAS,CAAE,IAAI,CAAG,AAE3E,AAAA,EAAE,CAAC,mBAAmB,AAAC,CAAE,KAAK,CAAE,SAAS,CAAE,WAAW,CAAE,oBAAoB,CAAE,SAAS,CAAE,IAAI,CAAG,AAEhG,AAAA,KAAK,AAAA,CAAC,KAAK,CAAE,SAAS,CAAE,WAAW,CAAE,wBAAwB,CAAG,AAEhE,AAAA,KAAK,AAAA,CAAC,KAAK,CAAE,SAAS,CAAE,WAAW,CAAE,wBAAwB,CAAG,AAEhE,AAAA,OAAO,AAAA,CACH,KAAK,CAAE,OACX,CAAC"
+}
